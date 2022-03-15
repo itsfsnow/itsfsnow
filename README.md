@@ -1,2 +1,3 @@
 ### Hi there 👋
-fr#1337
+disc: fr#1337
+mail: fjsno@protonmail.com
