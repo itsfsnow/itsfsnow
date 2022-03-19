@@ -1,5 +1,5 @@
 ### 👋 hey
-i'm 17 y/o student living in the uk.
+i'm 17 y/o student living in the uk. </br>
 i'm current studying maths, computer science & physics.
 
 ## contact
